@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Welcome to Blindata AWS Marketplace Support Center"
+permalink: /
+---
+
 ## Welcome to Blindata AWS Marketplace Support Center
 
 ### Support or Contact
