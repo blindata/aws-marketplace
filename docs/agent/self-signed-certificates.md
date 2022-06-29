@@ -20,7 +20,7 @@ Once the instance is running, you can check the Blindata Data Agent status via a
 
 You can see the status of the agent like in the image below:
 <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="{{site.baseurl}}/assets/images/ImgAgent.png" style="width: 200px;">
+    <img src="{{site.baseurl}}/assets/images/ImgAgent.png" style="width: 1000px;">
    
 </div>
 

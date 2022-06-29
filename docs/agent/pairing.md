@@ -35,7 +35,7 @@ agent name: this name will be used to identify the agent within the platform</li
 </li>
         </ol>
         <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="{{site.baseurl}}/assets/images/CreateAgent.png" style="width: 200px;">
+    <img src="{{site.baseurl}}/assets/images/CreateAgent.png" style="width: 1000px;">
    
 </div>
     </div>
