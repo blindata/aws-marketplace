@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Check agent status
-parent: Getting Started
+parent: Agent
 nav_order: 2
-last_modified_date: 2021-02-26T16:12
 ---
 
 # Connect to the application
