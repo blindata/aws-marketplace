@@ -37,6 +37,8 @@ agent name: this name will be used to identify the agent within the platform</li
         <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="{{site.baseurl}}/assets/images/CreateAgent.png" style="width: 1000px;">
    
+<p>
+The pairing operation can be recalled in a subsequent step by pressing the "PAIR" button. As a conclusion of the operation, the agent status will change from "NOT_PAIRED" to "PAIRED".</p>
 </div>
     </div>
 

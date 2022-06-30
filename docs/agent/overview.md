@@ -22,5 +22,15 @@ nav_order: 1
 </div>
 
 
+**Related pages:**
+
+- [Obtain application credentials]({{ site.baseurl }}{% link docs/getting-started/obtain-credentials.md %})
+- [Connect to application]({{ site.baseurl }}{% link docs/getting-started/connect-to-application.md %})
+- [Connect to database]({{ site.baseurl }}{% link docs/getting-started/connect-to-database.md %})
+- [Connect to server]({{ site.baseurl }}{% link docs/getting-started/connect-to-server.md %})
+
+
+
+
 ---
 
