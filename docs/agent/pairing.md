@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Pairing Agent with Blindata Core
-parent: Agent
-nav_order: 3
-last_modified_date: 2021-02-26T16:12
+parent: Blindata Agent
+nav_order: 4
 ---
 
 # Pairing with Blindata Core
@@ -17,7 +16,7 @@ last_modified_date: 2021-02-26T16:12
         <ol>
             <li>Allow the agent to provision the database schema that will contain the data of the tenant with which you are pairing</li>
             <li>Allow the exchange of identifiers for the identification of the tenant</li>
-            <li>Test the reachability at the network level; the agent must be able to invoke the Armored API in order to complete the operation.</li>
+            <li>Test the reachability at the network level; the agent must be able to invoke the Blindata API in order to complete the operation.</li>
         </ol>
     </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Check agent status
-parent: Agent
+parent: Blindata Agent
 nav_order: 2
 ---
 
@@ -19,6 +19,6 @@ You can see the status of the agent like in the image below:
 
 ---
 
-**Related pages:**
 
-- [Obtain application credentials]({{ site.baseurl }}{% link docs/getting-started/obtain-credentials.md %})
+
+

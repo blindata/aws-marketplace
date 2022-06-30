@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Agent Overview
-parent: Agent
+parent: Blindata Agent
 nav_order: 1
 
 ---
