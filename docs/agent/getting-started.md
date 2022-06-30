@@ -1,11 +1,11 @@
+---
 layout: default
 title: Getting started
 parent: Blindata Agent
 nav_order: 3
 
-# Set-up Agent
-
 ---
+# Set-up Agent
 
 <div style="display: flex; flex-direction: row-reverse; align-items: flex-start;">
     <div style="flex-grow: 2; margin-right: 1.5em;">
