@@ -47,14 +47,20 @@ nav_order: 3
         The agent is started with the following command:
         </p>
         <p>
-        java -Dloader.path=path/to/blindata-agent/lib/
-        -jar blindata-agent-"VERSION".jar
+        java -Dloader.path=path/to/blindata-agent/lib/ -jar blindata-agent-"VERSION".jar
+        <br>
         --spring.datasource.url=jdbc:postgresql://"host":"port"/postgres
+        <br>
         --spring.datasource.username=postgresql
+        <br>
         --spring.datasource.password=password
+        <br>
         --blindata.agent.remote.base-url=https://blindata.mydomain.com
+        <br>
         --blindata.agent.remote.allowed-origin=https://allowed-origin.mydomain.com
+        <br>
         --blindata.agent.encryption.secret=#encryption key
+        <br>
         </p>
         <p>The -Dloader.path option must be specified only if the agent must use custom drivers to connect to external systems. If there is no need to use custom drivers, the option can be omitted.</p>
         <p>Alternatively you can modify the file application.properties located in the same folder as the jar file with the previous commands.</p>
